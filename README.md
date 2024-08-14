@@ -83,11 +83,14 @@ This repository contains a Python-based interactive chatbot built using OpenAI's
 - **Listing Events:** Ask "show me the scheduled events," and the chatbot will retrieve your events.
 - **Canceling an Event:** Say something like "cancel my event at 3pm today," and the chatbot will find and cancel the event.
 
-## Future Enhancements
+## Resources
 
-- **Reschedule Event:** Implement a feature to reschedule an event based on user input.
-- **Enhanced UI/UX:** Improve the web interface for a better user experience.
-- **Persistent Conversation History:** Save conversation history to provide context for future interactions.
+- [OpenAI Function Calling Documentation](https://platform.openai.com/docs/guides/function-calling)
+- [cal.com Booking API Documentation](https://cal.com/docs/enterprise-features/api/api-reference/bookings#find-all-bookings)
+- [cal.com Slot API Documentation](https://cal.com/docs/enterprise-features/api/api-reference/slots#get-user-or-team-event-type-slots)
+- [Generate OpenAI API Key](https://platform.openai.com/account/api-keys)
+- [Create cal.com API Key](https://cal.com/docs/enterprise-features/api/authentication)
+
 
 ## License
 
