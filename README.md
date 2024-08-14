@@ -56,7 +56,7 @@ This repository contains a Python-based interactive chatbot built using OpenAI's
 
     ```json
     {
-      "cal_api_key": "your_cal.com_administrative_api_key",
+      "cal_api_key": "your_cal.com_admin_api_key",
       "openai_api_key": "your_openai_api_key"
     }
     ```
